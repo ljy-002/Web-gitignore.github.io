@@ -27,6 +27,6 @@
       <li><a href="https://scratch.mit.edu/projects/411242677" target="_blank">@@特朗普够了！！！</a></li>
     </details>
     <a href="https://ljy-002.github.io/giti.github.io/gitignore%20achievement" target="_blank">我的成就</a>
-    <p>language selete: <a href="/en">English</a> <a href="/ch">简体中文(Simplified Chinese)</a></p>
+    <p>语言: <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a> <a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank">简体中文</a></p>
   </body>
 </html>
