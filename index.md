@@ -53,14 +53,19 @@
 </html>
 
 
+<!DOCTYPE html>
+
 <html lang="en" >
+  
   <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/style.css" type="text/css" />
   </head>
+  
   <body>
     <canvas id="c"></canvas>
     <script type="text/javascript" src='js/TweenMax.min.js'></script>
     <script type="text/javascript" src="js/index.js"></script>
   </body>
+  
 </html>
