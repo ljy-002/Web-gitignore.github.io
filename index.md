@@ -2,14 +2,12 @@
 <html>
   <head>
     <title>gitignore的个人介绍</title>
-    <link rel="stylesheet" href="style.css" type="text/css" />
   </head>
   
   <body>
-    <div class="canvas"></div>
     <h1 class="cs">Hello!</h1>
     <h2 class="ct">我是gitignore</h2>
-    <dd>你可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd>
+    <h2 class="ct"><dd>你可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd></h2>
     <details>
         <summary>您可以看看我的关于计算的作品：</summary>
         <ol>
@@ -43,6 +41,7 @@
       </ol>
     </details>
     <a href="https://ljy-002.github.io/giti.github.io/gitignore%20achievement" target="_blank">我的成就</a>
+    <hr/>
     <p>语言: <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a> <a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank">简体中文</a></p>
   </body>
 </html>
