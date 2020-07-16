@@ -2,7 +2,6 @@
 <html>
   <head>
     <title>gitignore的个人介绍</title>
-    <link rel="icon" href="/favicon.ico/" type="image/x-icon"/>
   </head>
   <body>
     <h1 class="cs">Hello!</h1>
