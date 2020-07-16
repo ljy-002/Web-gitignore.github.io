@@ -2,9 +2,11 @@
 <html>
   <head>
     <title>gitignore的个人介绍</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
   </head>
   
   <body>
+    <div class="canvas"></div>
     <h1 class="cs">Hello!</h1>
     <h2 class="ct">我是gitignore</h2>
     <dd>你可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd>
