@@ -26,6 +26,6 @@
       <li><a href="https://scratch.mit.edu/projects/411246064" target="_blank">Farmers Life</a></li>
     </details>
     <a href="https://ljy-002.github.io/giti.github.io/gitignore%20achievement" target="_blank">gitignore achievements</a>
-    <p>language selete:<a href="/en">English</a> <a href="">简体中文</a></p>
+    <p>language selete:<a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a> <a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank">简体中文</a></p>
   </body>
 </html>
