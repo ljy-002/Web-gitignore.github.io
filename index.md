@@ -45,6 +45,9 @@
     <h2>我的经历：</h2>
     <a href="https://ljy-002.github.io/giti.github.io/gitignore%20achievement" target="_blank">我的成就</a>
     <hr/>
+    <h2>为gitignore投票：</h2>
+    <a href="https://ljy-002.github.io/Web-gitignore.github.io/%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8" target="_blank">为gitignore投票</a>
+    <hr/>
     <p>语言: <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a> <a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank">简体中文</a></p>
   </body>
 </html>
