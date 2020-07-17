@@ -20,6 +20,7 @@
       </details>
       <details>
         <summary><a href="https://scratch.mit.edu/users/AdamTimmy/" target="_blank">AdamTimmy</a>，<a href="https://scratch.mit.edu/users/Adamtimmy_tutor/" target="_blank">Adamtimmy_tutor（小号）</a></summary>
+          <dd>您可以在<a href="https://scratch.mit.edu/users/AdamTimmy/" target="_blank">Scratch</a>看到她</dd>
       </details>
       <details>
         <summary><a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">MapMaths</a>，<a href="https://scratch.mit.edu/users/MathsMap/" target="_blank">MathsMap（小号）</a></summary>
