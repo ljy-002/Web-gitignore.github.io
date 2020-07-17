@@ -7,6 +7,11 @@
     <h1 class="cs">Hello!</h1>
     <h2 class="ct">我是gitignore</h2>
     <h2 class="ct"><dd>你可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd></h2>
+    <h1>目录：</h1>
+    <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%9A" target="_blank">我的作品</a></li>
+    <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%9A" target="_blank">我的经历</a></li>
+    <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8%EF%BC%9A" target="_blank">为gitignore投票</a></li>
+    <hr/>
     <h2>我的作品：</h2>
     <hr/>
     <details>
