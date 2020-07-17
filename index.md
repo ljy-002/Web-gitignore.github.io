@@ -6,14 +6,27 @@
   <body>
     <h1 class="cs">Hello!</h1>
     <h1 class="ct">我是gitignore</h1>
-    <h1 class="ct"><dd>你可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd></h1>
+    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd></h1>
     <h1>目录：</h1>
+    <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%9A" target="_blank">我的朋友</a></li>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%9A" target="_blank">我的作品</a></li>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%9A" target="_blank">我的经历</a></li>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8%EF%BC%9A" target="_blank">为gitignore投票</a></li>
     <hr/>
-    <h2>我的作品：</h2>
+    <h2>我的朋友：</h2>
+      <details>
+        <summary><a href="https://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Little-Earthworm</a>，<a href="https://scratch.mit.edu/users/Earthworm-Tutor/" target="_blank">Earthworm-Tutor（小号）</a></summary>
+          <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>上看到他</dd>
+      </details>
+      <details>
+        <summary><a href="https://scratch.mit.edu/users/AdamTimmy/" target="_blank">AdamTimmy</a>，<a href="https://scratch.mit.edu/users/Adamtimmy_tutor/" target="_blank">Adamtimmy_tutor（小号）</a></summary>
+      </details>
+      <details>
+        <summary><a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">MapMaths</a>，<a href="https://scratch.mit.edu/users/MathsMap/" target="_blank">MathsMap（小号）</a></summary>
+          <dd>您可以在<a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/MapMaths" target="_blank">GitHub</a>，<a href="https://glitch.com/@MapMaths" target="_blank">glitch</a>上看到他</dd>
+      </details>
     <hr/>
+    <h2>我的作品：</h2>
     <details>
         <summary>您可以看看我的关于计算的作品：</summary>
         <ol>
