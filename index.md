@@ -26,6 +26,10 @@
         <summary><a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">MapMaths</a>，<a href="https://scratch.mit.edu/users/MathsMap/" target="_blank">MathsMap（小号）</a></summary>
           <dd>您可以在<a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/MapMaths" target="_blank">GitHub</a>，<a href="https://glitch.com/@MapMaths" target="_blank">glitch</a>上看到他</dd>
       </details>
+      <details>
+        <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a></summary>
+          <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她</dd>
+      </details>
     <hr/>
     <h2>我的作品：</h2>
     <details>
