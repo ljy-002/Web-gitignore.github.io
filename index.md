@@ -27,8 +27,8 @@
           <dd>您可以在<a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/MapMaths" target="_blank">GitHub</a>，<a href="https://glitch.com/@MapMaths" target="_blank">glitch</a>上看到他</dd>
       </details>
       <details>
-        <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a></summary>
-          <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她</dd>
+        <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a>，<a href="https://scratch.mit.edu/users/stars-Ming/" target="_blank">stars-Ming（小号&“危险”）</a></summary>
+          <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她，或者在<a href="https://github.com/LeslieMing?tab=stars" target="_blank">GitHub</a>上看到她</dd>
       </details>
     <hr/>
     <h2>我的作品：</h2>
@@ -40,7 +40,10 @@
           <li><a href="https://scratch.mit.edu/projects/401858817/" target="_blank">算“A”</a></li>
           <li><a href="https://scratch.mit.edu/projects/386873251/" target="_blank">Prime Numbers</a></li>
           <li><a href="https://scratch.mit.edu/projects/399763948/" target="_blank">计算"!"</a></li>
-          <li><a href="https://scratch.mit.edu/projects/408831482" target="_blank">3DScratch场地</a></li>
+          <li><a href="https://scratch.mit.edu/projects/410708069/" target="_blank">指数函数</a></li>
+          <li><a href="https://scratch.mit.edu/projects/407245340/" target="_blank">倒数关系</a></li>
+          <li><a href="https://scratch.mit.edu/projects/407245340/" target="_blank">三个滑杆</a></li>
+          <li><a href="https://scratch.mit.edu/projects/407049906/" target="_blank">cot余切三角函数制图</a></li>
         </ol>
     </details>
     <details>
@@ -49,6 +52,7 @@
           <li><a href="https://scratch.mit.edu/projects/400069880/" target="_blank">梯体点矩阵3D</a></li>
           <li><a href="https://scratch.mit.edu/projects/400072481" target="_blank">三角体点矩阵3D</a></li>
           <li><a href="https://scratch.mit.edu/projects/400072481" target="_blank">方形点矩阵3D</a></li>
+          <li><a href="https://scratch.mit.edu/projects/408831482" target="_blank">3DScratch场地</a></li>
         </ol>
     </details>
     <details>
