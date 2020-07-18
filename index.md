@@ -12,11 +12,13 @@
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%9A" target="_blank">我的作品</a></li>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%9A" target="_blank">我的经历</a></li>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8%EF%BC%9A" target="_blank">为gitignore投票</a></li>
+    <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E5%BC%80%E6%94%BE%E7%9A%84%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%9A" target="_blank">开放的源代码</a></li>
     <hr/>
     <h2>我的朋友：</h2>
       <details>
         <summary><a href="https://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Little-Earthworm</a>，<a href="https://scratch.mit.edu/users/Earthworm-Tutor/" target="_blank">Earthworm-Tutor（小号）</a></summary>
           <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>上看到他</dd>
+          <a href="https://earthworm-web.github.io/zh-cn/index.html" target="_blank">他的github.io主页</a>
       </details>
       <details>
         <summary><a href="https://scratch.mit.edu/users/AdamTimmy/" target="_blank">AdamTimmy</a>，<a href="https://scratch.mit.edu/users/Adamtimmy_tutor/" target="_blank">Adamtimmy_tutor（小号）</a></summary>
@@ -25,6 +27,7 @@
       <details>
         <summary><a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">MapMaths</a>，<a href="https://scratch.mit.edu/users/MathsMap/" target="_blank">MathsMap（小号）</a></summary>
           <dd>您可以在<a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/MapMaths" target="_blank">GitHub</a>，<a href="https://glitch.com/@MapMaths" target="_blank">glitch</a>上看到他</dd>
+          <a href="https://mapmaths.github.io/" target="_blank">他的github.io主页</a>
       </details>
       <details>
         <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a>，<a href="https://scratch.mit.edu/users/stars-Ming/" target="_blank">stars-Ming（小号&“危险”）</a></summary>
@@ -75,6 +78,9 @@
     <h2>为gitignore投票：</h2>
     <a href="https://ljy-002.github.io/Web-gitignore.github.io/%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8" target="_blank">为gitignore投票</a>
     <hr/>
-    <p>语言: <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a> <a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank">简体中文</a></p>
+    <h2>开放的源代码：</h2>
+    <a href="https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">源代码</a>
+    <hr/>
+    <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
   </body>
 </html>
