@@ -4,7 +4,7 @@
     <title>gitignore的个人介绍</title>
   </head>
   <body>
-    <h1 class="cs">Hello!</h1>
+    <h1 class="cs"><span style="background-color: rgb(200, 80, 27);color: rgb(255, 255, 255);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
     <h1 class="ct">我是gitignore</h1>
     <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd></h1>
     <h1>目录：</h1>
