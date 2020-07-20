@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1 class="cs"><span style="background-color: rgb(255, 255, 255);color: rgb(55, 100, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
-    <h1 class="ct">我是<span style="background-color: rgb(28, 100, 255);color: rgb(255, 255, 255);text-align: right;letter-spacing: 1.5px;">gitignore</span></h1>
+    <h1 class="ct">我是gitignore</h1>
     <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd></h1>
     <h1>目录：</h1>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%9A" target="_blank">我的朋友</a></li>
@@ -79,7 +79,10 @@
     <a href="https://ljy-002.github.io/Web-gitignore.github.io/%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8" target="_blank">为gitignore投票</a>
     <hr/>
     <h2>开放的源代码：</h2>
-    <a href="https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">源代码</a>
+    <p><a href="https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">源代码</a></p>
+    <p><a href="https://codeload.github.com/ljy-002/Web-gitignore.github.io/zip/master" target="_blank">直接下载此源代码（zip格式）</a></p>
+    <p><a href="https://github.com/ljy-002/Web-gitignore.github.io.git" target="_blank">使用Git的HTTPS-URL下载</a>，<a href="git@github.com:ljy-002/Web-gitignore.github.io.git" target="_blank">使用Git的SSH密钥下载（复制此链接）</a></p>
+    <p><a href="x-github-client://openRepo/https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">使用GitHub桌面版下载</a></p>
     <hr/>
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
   </body>
