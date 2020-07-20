@@ -6,7 +6,7 @@
   <body>
     <h1 class="cs"><span style="background-color: rgb(255, 255, 255);color: rgb(55, 100, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
     <h1 class="ct">我是gitignore</h1>
-    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>上看到我</dd></h1>
+    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>上看到我</dd></h1>
     <h1>目录：</h1>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%9A" target="_blank">我的朋友</a></li>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%9A" target="_blank">我的作品</a></li>
@@ -17,7 +17,7 @@
     <h2>我的朋友：</h2>
       <details>
         <summary><a href="https://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Little-Earthworm</a>，<a href="https://scratch.mit.edu/users/Earthworm-Tutor/" target="_blank">Earthworm-Tutor（小号）</a></summary>
-          <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>上看到他</dd>
+          <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>，<a href="https://earthworm.flarum.cloud/" target="_blank">Flarum</a>上看到他</dd>
           <a href="https://earthworm-web.github.io/zh-cn/index.html" target="_blank">他的github.io主页</a>
       </details>
       <details>
@@ -26,12 +26,12 @@
       </details>
       <details>
         <summary><a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">MapMaths</a>，<a href="https://scratch.mit.edu/users/MathsMap/" target="_blank">MathsMap（小号）</a></summary>
-          <dd>您可以在<a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/MapMaths" target="_blank">GitHub</a>，<a href="https://glitch.com/@MapMaths" target="_blank">glitch</a>上看到他</dd>
+          <dd>您可以在<a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/MapMaths" target="_blank">GitHub</a>，<a href="https://glitch.com/@MapMaths" target="_blank">Glitch</a>，<a href="https://mapmaths.flarum.cloud/" target="_blank">Flarum</a>上看到他</dd>
           <a href="https://mapmaths.github.io/" target="_blank">他的github.io主页</a>
       </details>
       <details>
-        <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a>，<a href="https://scratch.mit.edu/users/stars-Ming/" target="_blank">stars-Ming（小号&“危险”）</a></summary>
-          <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她，或者在<a href="https://github.com/LeslieMing?tab=stars" target="_blank">GitHub</a>上看到她</dd>
+        <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a>，<a href="https://scratch.mit.edu/users/stars-Ming/" target="_blank">stars-Ming（小号）</a></summary>
+          <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她，或者在<a href="https://github.com/LeslieMingg" target="_blank">GitHub</a>上看到她</dd>
       </details>
     <hr/>
     <h2>我的作品：</h2>
