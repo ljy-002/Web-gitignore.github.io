@@ -61,9 +61,9 @@
     <details>
       <summary>关于我的一些游戏：</summary>
       <ol>
-          <li><a href="https://scratch.mit.edu/projects/411453458" target="_blank">Hamiltonian Way-汉密尔顿路</a></li>
+          <li><a href="https://scratch.mit.edu/projects/411453458" target="_blank">Hamiltonian Way-汉密尔顿路</a> <a href="blob:https://scratch.mit.edu/5d0cec73-cd72-46a6-a500-48e0a1a8e15e" target="_blank">下载sb3文件</a></li>
           <li><a href="https://scratch.mit.edu/projects/411246064" target="_blank">Farmers Life-农民生活</a></li>
-          <li><a href="https://scratch.mit.edu/projects/411242677" target="_blank">@@特朗普够了！！！</a></li>
+          <li><a href="https://scratch.mit.edu/projects/411242677" target="_blank">@@特朗普够了！！！</a> <a href="blob:https://scratch.mit.edu/a084c8b1-dcb1-477c-bbe1-f1ccd126478d" target="_blank">下载sb3文件</a></li>
           <li><a href="https://scratch.mit.edu/projects/400837419" target="_blank">Parkour that can't jump-不能跳跃的跑酷</a></li>
           <li><a href="https://scratch.mit.edu/projects/400871131" target="_blank">别出白线</a></li>
           <li><a href="https://scratch.mit.edu/projects/408831482" target="_blank">3DScratch场地</a></li>
