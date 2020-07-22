@@ -6,7 +6,9 @@
   <body>
     <h1 class="cs"><span style="background-color: rgb(255, 255, 255);color: rgb(55, 100, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
     <h1 class="ct">我是gitignore</h1>
-    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>看到我，或者在<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>上看到我</dd></h1>
+    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>上看到我</dd></h1>
+    <h1>您可以在<a href="https://afdian.net/@gitignore" target="_blank">爱发电</a>上赞助我</h1>
+    <hr/>
     <h1>目录：</h1>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%9A" target="_blank">我的朋友</a></li>
     <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%9A" target="_blank">我的作品</a></li>
