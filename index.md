@@ -11,11 +11,11 @@
     <hr/>
     <h1>目录：</h1>
     <ul>
-      <li><a href="#我的朋友：" target="_blank">我的朋友</a></li>
-      <li><a href="#我的作品：" target="_blank">我的作品</a></li>
-      <li><a href="#我的经历：" target="_blank">我的经历</a></li>
-      <li><a href="#为gitignore投票：" target="_blank">为gitignore投票</a></li>
-      <li><a href="#开放的源代码：" target="_blank">开放的源代码</a></li>
+      <li><a href="#我的朋友：">我的朋友</a></li>
+      <li><a href="#我的作品：">我的作品</a></li>
+      <li><a href="#我的经历：">我的经历</a></li>
+      <li><a href="#为gitignore投票：">为gitignore投票</a></li>
+      <li><a href="#开放的源代码：">开放的源代码</a></li>
     </ul>
     <hr/>
     <h2>我的朋友：</h2>
