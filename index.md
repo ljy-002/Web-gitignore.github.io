@@ -11,11 +11,11 @@
     <hr/>
     <h1>目录：</h1>
     <ul>
-      <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%9A" target="_blank">我的朋友</a></li>
-      <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%9A" target="_blank">我的作品</a></li>
-      <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E6%88%91%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%9A" target="_blank">我的经历</a></li>
-      <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8%EF%BC%9A" target="_blank">为gitignore投票</a></li>
-      <li><a href="https://ljy-002.github.io/Web-gitignore.github.io/#%E5%BC%80%E6%94%BE%E7%9A%84%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%9A" target="_blank">开放的源代码</a></li>
+      <li><a href="#我的朋友：" target="_blank">我的朋友</a></li>
+      <li><a href="#我的作品：" target="_blank">我的作品</a></li>
+      <li><a href="#我的经历：" target="_blank">我的经历</a></li>
+      <li><a href="#为gitignore投票：" target="_blank">为gitignore投票</a></li>
+      <li><a href="#开放的源代码：" target="_blank">开放的源代码</a></li>
     </ul>
     <hr/>
     <h2>我的朋友：</h2>
