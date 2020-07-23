@@ -6,16 +6,16 @@
   <body>
     <h1 class="cs"><span style="background-color: rgb(255, 255, 255);color: rgb(55, 100, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
     <h1 class="ct">我是gitignore</h1>
-    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>上看到我</dd></h1>
+    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>上看到我</dd></h1>
     <h1>您可以在<a href="https://afdian.net/@gitignore" target="_blank">爱发电</a>上赞助我</h1>
     <hr/>
     <h1>目录：</h1>
     <ul>
-      <li><a href="#我的朋友：">我的朋友</a></li>
-      <li><a href="#我的作品：">我的作品</a></li>
-      <li><a href="#我的经历：">我的经历</a></li>
-      <li><a href="#为gitignore投票：">为gitignore投票</a></li>
-      <li><a href="#开放的源代码：">开放的源代码</a></li>
+      <li><a href="#我的朋友：" id="我的朋友：">我的朋友</a></li>
+      <li><a href="#我的作品：" id="我的作品：">我的作品</a></li>
+      <li><a href="#我的经历：" id="我的经历：">我的经历</a></li>
+      <li><a href="#为gitignore投票：" id="为gitignore投票：">为gitignore投票</a></li>
+      <li><a href="#开放的源代码：" id="开放的源代码：">开放的源代码</a></li>
     </ul>
     <hr/>
     <h2>我的朋友：</h2>
