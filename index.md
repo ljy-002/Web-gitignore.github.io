@@ -89,5 +89,7 @@
     <p><a href="x-github-client://openRepo/https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">使用GitHub桌面版下载</a></p>
     <hr/>
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
+    <hr/>
+    <p>如果您无法进入以上网页，可以运行<a href="javascript:diagnoseErrors()" id="diagnose-link" jstcache="0">Windows网络诊断</a>试试</p>
   </body>
 </html>
