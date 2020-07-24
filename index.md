@@ -6,8 +6,8 @@
   <body>
     <h1 class="cs"><span style="background-color: rgb(255, 255, 255);color: rgb(55, 100, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
     <h1 class="ct">我是gitignore</h1>
-    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>，<a href="https://www.patreon.com/user?u=39290366" target="_blank">Patreon</a>上看到我</dd></h1>
-    <h1>您可以在<a href="https://afdian.net/@gitignore" target="_blank">爱发电</a>上赞助我</h1>
+    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>，<a href="https://www.patreon.com/user?u=39290366" target="_blank">Patreon</a>，<a href="https://asciinema.org/~gitignore" target="_blank">Asciinema</a>上看到我</dd></h1>
+    <h1>您可以在<a href="https://afdian.net/@gitignore" target="_blank">爱发电</a>，<a href="https://www.patreon.com/user?u=39290366" target="_blank">Patreon</a>上赞助我</h1>
     <hr/>
     <h1>目录：</h1>
     <ul>
@@ -21,7 +21,7 @@
     <h2>我的朋友：</h2>
       <details>
         <summary><a href="https://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Little-Earthworm</a>，<a href="https://scratch.mit.edu/users/Earthworm-Tutor/" target="_blank">Earthworm-Tutor（小号）</a></summary>
-          <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>，<a href="https://earthworm.flarum.cloud/" target="_blank">Flarum</a>上看到他</dd>
+          <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>，<a href="https://earthworm.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@Little-Earthworm" target="_blank">Glitch</a>上看到他</dd>
           <a href="https://earthworm-web.github.io/zh-cn/index.html" target="_blank">他的github.io主页</a>
       </details>
       <details>
@@ -90,6 +90,6 @@
     <hr/>
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
     <hr/>
-    <p>如果您无法进入以上网页，可以运行<a href="javascript:diagnoseErrors()" id="diagnose-link" jstcache="0">Windows网络诊断</a>试试</p>
+    <p>如果您无法进入以上网页，可以运行<a href="javascript:diagnoseErrors()" id="diagnose-link" jstcache="0">重置此页面（不会造成任何反应）</a>，再刷新此页面试试</p>
   </body>
 </html>
