@@ -6,7 +6,7 @@
   <body>
     <h1 class="cs"><span style="background-color: rgb(255, 255, 255);color: rgb(55, 100, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
     <h1 class="ct">我是gitignore</h1>
-    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>，<a href="https://asciinema.org/~gitignore" target="_blank">Asciinema</a>，<a href="https://www.youngmaker.com/home/teacher_member/catalog/uid/121590.html" target="_blank">Maker</a>，<a href="https://mblock.makeblock.com/u/1264223" target="_blank">Makeblock</a>，<a href="https://account.microsoft.com/?username=ljy123ljy123%40dingtalk.com" target="_blank">Microsoft</a>上看到我</dd></h1>
+    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>，<a href="https://asciinema.org/~gitignore" target="_blank">Asciinema</a>，<a href="https://www.youngmaker.com/home/teacher_member/catalog/uid/121590.html" target="_blank">Maker</a>，<a href="https://mblock.makeblock.com/u/1264223" target="_blank">Makeblock</a>，<a href="https://sourceforge.net/u/gitignore/profile/" target="_blank">Sourceforge</a>上看到我</dd></h1>
     <h1>您可以在<a href="https://afdian.net/@gitignore" target="_blank">爱发电</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>上赞助我</h1>
     <hr/>
     <h1>目录：</h1>
@@ -91,5 +91,7 @@
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
     <hr/>
     <p>如果您无法进入以上网页，可以运行<a href="javascript:diagnoseErrors()" id="diagnose-link" jstcache="0">重置此页面（不会造成任何反应）</a>，再刷新此页面试试</p>
+    <hr/>
+    <p>续言：“<i><a href="https://ljy-002.github.io/Web-gitignore.github.io/Scratch!!!">拯救Scratch！！！</a></i>”</p>
   </body>
 </html>
