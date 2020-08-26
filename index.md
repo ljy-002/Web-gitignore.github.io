@@ -4,9 +4,15 @@
     <title>gitignore的个人介绍</title>
   </head>
   <body>
-    <h1 class="cs"><span style="background-color: rgb(255, 255, 255);color: rgb(55, 100, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span></h1>
+    <h1 class="cs">
+      <span style="background-color: rgb(255, 255, 255);color: rgb(55, 200, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span>
+    </h1>
     <h1 class="ct">我是gitignore</h1>
-    <h1 class="ct"><dd>您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>，<a href="https://asciinema.org/~gitignore" target="_blank">Asciinema</a>，<a href="https://www.youngmaker.com/home/teacher_member/catalog/uid/121590.html" target="_blank">Maker</a>，<a href="https://mblock.makeblock.com/u/1264223" target="_blank">Makeblock</a>，<a href="https://sourceforge.net/u/gitignore/profile/" target="_blank">Sourceforge</a>上看到我</dd></h1>
+    <h1 class="ct">
+      <dd>
+        您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>，<a href="https://asciinema.org/~gitignore" target="_blank">Asciinema</a>，<a href="https://www.youngmaker.com/home/teacher_member/catalog/uid/121590.html" target="_blank">Maker</a>，<a href="https://mblock.makeblock.com/u/1264223" target="_blank">Makeblock</a>，<a href="https://sourceforge.net/u/gitignore/profile/" target="_blank">Sourceforge</a>，<a href="https://shequ.codemao.cn/user/7588327" target="_blank">编程猫</a>上看到我
+      </dd>
+    </h1>
     <h1>您可以在<a href="https://afdian.net/@gitignore" target="_blank">爱发电</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>上赞助我</h1>
     <hr/>
     <h1>目录：</h1>
@@ -14,7 +20,6 @@
       <li><a href="#我的朋友：" id="我的朋友：">我的朋友</a></li>
       <li><a href="#我的作品：" id="我的作品：">我的作品</a></li>
       <li><a href="#我的经历：" id="我的经历：">我的经历</a></li>
-      <li><a href="#为gitignore投票：" id="为gitignore投票：">为gitignore投票</a></li>
       <li><a href="#开放的源代码：" id="开放的源代码：">开放的源代码</a></li>
     </ul>
     <hr/>
@@ -36,6 +41,10 @@
       <details>
         <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a>，<a href="https://scratch.mit.edu/users/stars-Ming/" target="_blank">stars-Ming（小号）</a></summary>
           <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她，或者在<a href="https://github.com/LeslieMingg" target="_blank">GitHub</a>上看到她</dd>
+      </details>
+      <details>
+        <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a></summary>
+          <dd>您可以在<a href="https://github.com/walkerljy" target="_blank">GitHub</a>上看到他</dd>
       </details>
     <hr/>
     <h2>我的作品：</h2>
@@ -79,9 +88,6 @@
     <h2>我的经历：</h2>
     <a href="https://ljy-002.github.io/giti.github.io/gitignore%20achievement" target="_blank">我的成就</a>
     <hr/>
-    <h2>为gitignore投票：</h2>
-    <a href="https://ljy-002.github.io/Web-gitignore.github.io/%E4%B8%BAgitignore%E6%8A%95%E7%A5%A8" target="_blank">为gitignore投票</a>
-    <hr/>
     <h2>开放的源代码：</h2>
     <p><a href="https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">源代码</a></p>
     <p><a href="https://codeload.github.com/ljy-002/Web-gitignore.github.io/zip/master" target="_blank">直接下载此源代码（zip格式）</a></p>
@@ -90,8 +96,6 @@
     <hr/>
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
     <hr/>
-    <p>如果您无法进入以上网页，可以运行<a href="javascript:diagnoseErrors()" id="diagnose-link" jstcache="0">重置此页面（不会造成任何反应）</a>，再刷新此页面试试</p>
-    <hr/>
-    <p>续言：“<i><a href="https://ljy-002.github.io/Web-gitignore.github.io/Scratch!!!">拯救Scratch！！！</a></i>”</p>
+    <p>续言：“<i><a href="https://github.com/ljy-002/Save-Scratch">拯救Scratch！！！</a></i>”</p>
   </body>
 </html>
