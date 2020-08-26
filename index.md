@@ -43,8 +43,9 @@
           <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她，或者在<a href="https://github.com/LeslieMingg" target="_blank">GitHub</a>上看到她</dd>
       </details>
       <details>
-        <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a></summary>
+        <summary><a href="https://github.com/walkerljy" target="_blank">walkerljy</a></summary>
           <dd>您可以在<a href="https://github.com/walkerljy" target="_blank">GitHub</a>上看到他</dd>
+          <a href="https://walkerljy.github.io/" target="_blank">他的github.io主页</a>
       </details>
     <hr/>
     <h2>我的作品：</h2>
