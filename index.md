@@ -15,6 +15,7 @@
     </h1>
     <h1>您可以在<a href="https://afdian.net/@gitignore" target="_blank">爱发电</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>上赞助我</h1>
     <hr/>
+    <h1><a href="https://github.com/ljy-002/Web-gitignore.github.io/blob/master/README.md">主页介绍</a></h1>
     <h1>目录：</h1>
     <ul>
       <li><a href="#我的朋友：" id="我的朋友：">我的朋友</a></li>
@@ -110,5 +111,13 @@
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
     <hr/>
     <p>续言：“<i><a href="https://github.com/ljy-002/Save-Scratch">拯救Scratch！！！</a></i>”</p>
+    <h2 align="center">制作/版权提供者：</h2>
+    <h2 align="center">
+      <table>
+        <tr>
+          <td align="center"><a href="https://github.com/ljy-002"><img src="https://avatars1.githubusercontent.com/u/63292034?s=460&u=271fb228c3c812e73709021a912ab3dec0adb205&v=4" width="100px;" alt=""/><br /><sub><b>ljy-002</b></sub></a><br /></td>
+        </tr>
+      </table>
+    </h2>
   </body>
 </html>
