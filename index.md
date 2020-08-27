@@ -44,8 +44,10 @@
         <tr>
           <td align="center"><a href="https://github.com/Adamtimmy2"><img src="https://avatars2.githubusercontent.com/u/67802954?s=460&u=3bd0a45d40c0db1b2312a1f9d164fc8c29f82acd&v=4" width="100px;" alt=""/><br /><sub><b>AdamTimmy2</b></sub></a><br /></td>
         </tr>
+      </table>
+      <table>
         <tr>
-          <td align="center"><a href="https://github.com/Adamtimmy"><img src="https://avatars0.githubusercontent.com/u/64662299?s=400&v=4" width="100px;" alt=""/><br /><sub><b>AdamTimmy/b></sub></a><br /></td>
+          <td align="center"><a href="https://github.com/Adamtimmy"><img src="https://avatars0.githubusercontent.com/u/64662299?s=400&v=4" width="100px;" alt=""/><br /><sub><b>AdamTimmy</b></sub></a><br /></td>
         </tr>
       </table>
       <details>
