@@ -8,7 +8,6 @@
       <span style="background-color: rgb(255, 255, 255);color: rgb(55, 200, 100);text-align: right;letter-spacing: 1.5px;">Hello!</span>
     </h1>
     <h1>我是gitignore</h1>
-    <img src="/蛋黄哥.gif" width="100px;" alt=""/>
     <h1>
       <dd>
         您可以在<a href="http://scratch.mit.edu/users/gitignore/" target="_blank">Scratch</a>，<a href="https://github.com/ljy-002" target="_blank">GitHub</a>，<a href="https://gitignore.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@ljy123ljy123" target="_blank">Glitch</a>，<a href="https://cytoid.cn/profile/gitignore" target="_blank">Cytoid</a>，<a href="https://www.patreon.com/user?u=39290366&fan_landing=true" target="_blank">Patreon</a>，<a href="https://asciinema.org/~gitignore" target="_blank">Asciinema</a>，<a href="https://www.youngmaker.com/home/teacher_member/catalog/uid/121590.html" target="_blank">Maker</a>，<a href="https://mblock.makeblock.com/u/1264223" target="_blank">Makeblock</a>，<a href="https://sourceforge.net/u/gitignore/profile/" target="_blank">Sourceforge</a>，<a href="https://shequ.codemao.cn/user/7588327" target="_blank">编程猫</a>上看到我
