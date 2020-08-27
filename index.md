@@ -59,11 +59,21 @@
         <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a>，<a href="https://scratch.mit.edu/users/stars-Ming/" target="_blank">stars-Ming（小号）</a></summary>
           <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她，或者在<a href="https://github.com/LeslieMingg" target="_blank">GitHub</a>上看到她</dd>
       </details>
+      <table>
+        <tr>
+          <td align="center"><a href="https://github.com/LeslieMingg"><img src="https://avatars1.githubusercontent.com/u/63526181?s=400&v=4" width="100px;" alt=""/><br /><sub><b>LeslieMing</b></sub></a><br /></td>
+        </tr>
+      </table>
       <details>
         <summary><a href="https://github.com/walkerljy" target="_blank">walkerljy</a></summary>
           <dd>您可以在<a href="https://github.com/walkerljy" target="_blank">GitHub</a>上看到他</dd>
           <a href="https://walkerljy.github.io/" target="_blank">他的github.io主页</a>
       </details>
+      <table>
+        <tr>
+          <td align="center"><a href="https://github.com/walkerljy"><img src="https://avatars3.githubusercontent.com/u/62835739?s=400&u=6069a58fa0d02e7e53e90f4ccad7fb79ee38d4da&v=4" width="100px;" alt=""/><br /><sub><b>walkerljy</b></sub></a><br /></td>
+        </tr>
+      </table>
     <hr/>
     <h2>我的作品：</h2>
     <details>
