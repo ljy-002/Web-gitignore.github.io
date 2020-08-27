@@ -110,7 +110,6 @@
     <hr/>
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
     <hr/>
-    <p>续言：“<i><a href="https://github.com/ljy-002/Save-Scratch">拯救Scratch！！！</a></i>”</p>
     <h2 align="center">制作/版权提供者：</h2>
     <h2 align="center">
       <table>
@@ -119,5 +118,7 @@
         </tr>
       </table>
     </h2>
+    <hr/>
+    <p>续言：“<i><a href="https://github.com/ljy-002/Save-Scratch">拯救Scratch！！！</a></i>”</p>
   </body>
 </html>
