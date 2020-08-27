@@ -30,15 +30,31 @@
           <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>，<a href="https://earthworm.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@Little-Earthworm" target="_blank">Glitch</a>上看到他</dd>
           <a href="https://earthworm-web.github.io/zh-cn/index.html" target="_blank">他的github.io主页</a>
       </details>
+      <table>
+        <tr>
+          <td align="center"><a href="https://github.com/Little-Earthworm"><img src="https://avatars3.githubusercontent.com/u/68278999?s=400&u=55e28135228e1aab70a12b68b0764854fdda842c&v=4" width="100px;" alt=""/><br /><sub><b>Little-Earthworm</b></sub></a><br /></td>
+        </tr>
+      </table>
       <details>
         <summary><a href="https://scratch.mit.edu/users/AdamTimmy/" target="_blank">AdamTimmy</a>，<a href="https://scratch.mit.edu/users/Adamtimmy_tutor/" target="_blank">Adamtimmy_tutor（小号）</a></summary>
           <dd>您可以在<a href="https://scratch.mit.edu/users/AdamTimmy/" target="_blank">Scratch</a>看到她</dd>
+          <a href="https://adamtimmy.github.io/" target="_blank">她的github.io主页</a>
       </details>
+      <table>
+        <tr>
+          <td align="center"><a href="https://github.com/Adamtimmy2"><img src="https://avatars2.githubusercontent.com/u/67802954?s=460&u=3bd0a45d40c0db1b2312a1f9d164fc8c29f82acd&v=4" width="100px;" alt=""/><br /><sub><b>AdamTimmy</b></sub></a><br /></td>
+        </tr>
+      </table>
       <details>
         <summary><a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">MapMaths</a>，<a href="https://scratch.mit.edu/users/MathsMap/" target="_blank">MathsMap（小号）</a></summary>
           <dd>您可以在<a href="https://scratch.mit.edu/users/MapMaths/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/MapMaths" target="_blank">GitHub</a>，<a href="https://glitch.com/@MapMaths" target="_blank">Glitch</a>，<a href="https://mapmaths.flarum.cloud/" target="_blank">Flarum</a>上看到他</dd>
           <a href="https://mapmaths.github.io/" target="_blank">他的github.io主页</a>
       </details>
+      <table>
+        <tr>
+          <td align="center"><a href="https://github.com/MapMaths"><img src="https://avatars1.githubusercontent.com/u/62785981?s=400&u=9ed8f97b0fb1901b7a4680c60677d50e2a03e10d&v=4" width="100px;" alt=""/><br /><sub><b>MapMaths</b></sub></a><br /></td>
+        </tr>
+      </table>
       <details>
         <summary><a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">LeslieMing</a>，<a href="https://scratch.mit.edu/users/stars-Ming/" target="_blank">stars-Ming（小号）</a></summary>
           <dd>您可以在<a href="https://scratch.mit.edu/users/LeslieMing/" target="_blank">Scratch</a>看到她，或者在<a href="https://github.com/LeslieMingg" target="_blank">GitHub</a>上看到她</dd>
@@ -90,7 +106,7 @@
     <h2>我的经历：</h2>
     <a href="https://ljy-002.github.io/giti.github.io/gitignore%20achievement" target="_blank">我的成就</a>
     <details>
-      <summary>我的1~9界目标——已完成：</summary>
+      <summary>我（Scratch）的1~9界目标——已完成：</summary>
       <p>第1界目标：进入中国200强——在2020年6月实现</p>
       <p>第2界目标：发布作品超过100个——在2020年6月实现</p>
       <p>第3界目标：所有作品点赞量超过400——在2020年6月实现</p>
@@ -101,6 +117,10 @@
       <p>第8界目标：所有作品点赞量超过500——在2020年8月实现</p>
       <p>第9界目标：进入中国130强——在2020年8月实现</p>
     </details>
+    <hr/>
+    <h2>我帮别人建议了些的网站：</h2>
+    <p><a href="https://github.com/Softencode/softencode.github.io">github.io储存库</a>，<a href="https://softencode.github.io">github.io网站</a></p>
+    <p><a href="https://github.com/Adamtimmy2/adamtimmy.github.io">github.io储存库</a>，<a href="https://adamtimmy.github.io">github.io网站</a></p>
     <hr/>
     <h2>开放的源代码：</h2>
     <p><a href="https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">源代码</a></p>
