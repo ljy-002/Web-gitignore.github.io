@@ -132,11 +132,12 @@
     <h2>我帮别人建议了些的网站：</h2>
     <p><a href="https://github.com/Softencode/softencode.github.io">github.io储存库</a>，<a href="https://softencode.github.io">github.io网站</a></p>
     <p><a href="https://github.com/Adamtimmy2/adamtimmy.github.io">github.io储存库</a>，<a href="https://adamtimmy.github.io">github.io网站</a></p>
+    <hr/>
     <h2>已表明版权所有者网页：</h2>
-    <b><a href="/Others'%20github.io/Earthworm-Web.github.io.html">Earthworm-Web.github.io</a></b>
-    <b><a href="/Others'%20github.io/MapMaths.github.io.html">MapMaths.github.io</a></b>
-    <b><a href="/Others'%20github.io/Softencode.github.io.html">Softencode.github.io</a></b>
-    <b><a href="/Others'%20github.io/Walkerljy.github.io.html">Walkerljy.github.io</a></b>
+    <h3><b><a href="/Web-gitignore.github.io/Others'%20github.io/Earthworm-Web.github.io.html">Earthworm-Web.github.io</a></b></h3>
+    <h3><b><a href="/Web-gitignore.github.io/Others'%20github.io/MapMaths.github.io.html">MapMaths.github.io</a></b></h3>
+    <h3><b><a href="/Web-gitignore.github.io/Others'%20github.io/Softencode.github.io.html">Softencode.github.io</a></b></h3>
+    <h3><b><a href="/Web-gitignore.github.io/Others'%20github.io/Walkerljy.github.io.html">Walkerljy.github.io</a></b></h3>
     <hr/>
     <h2>开放的源代码：</h2>
     <p><a href="https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">源代码</a></p>
@@ -152,9 +153,7 @@
         <tr>
           <td align="center"><a href="https://github.com/ljy-002"><img src="https://avatars1.githubusercontent.com/u/63292034?s=460&u=271fb228c3c812e73709021a912ab3dec0adb205&v=4" width="100px;" alt=""/><br /><sub><b>ljy-002</b></sub></a><br /></td>
         </tr>
-        <tr>
           <td align="center"><a href="https://github.com/ljy-001"><img src="https://avatars3.githubusercontent.com/u/61677633?s=400&u=d352b4a5cb394c5dd3293f94acbc6fb693b0e67b&v=4" width="100px;" alt=""/><br /><sub><b>Danny</b></sub></a><br /></td>
-        </tr>
       </table>
     </h2>
     <hr/>
