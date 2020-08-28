@@ -1,5 +1,11 @@
 # Web-gitignore.github.io
-# 这是一个很好的网站：
+# 这是一个很好的网站
+# 1) 不使用Cook
+# 2) 画面简洁，不占内存
+# 3) 手机也可以进入
+# 4) 进入速度快
+# 5) 性价比很高（简单网站，大片内容）
+# 一个很好的网站：
 <a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank">Web-gitignore.github.io</a>
 
 <hr/>
