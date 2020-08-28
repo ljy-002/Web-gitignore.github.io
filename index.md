@@ -132,6 +132,11 @@
     <h2>我帮别人建议了些的网站：</h2>
     <p><a href="https://github.com/Softencode/softencode.github.io">github.io储存库</a>，<a href="https://softencode.github.io">github.io网站</a></p>
     <p><a href="https://github.com/Adamtimmy2/adamtimmy.github.io">github.io储存库</a>，<a href="https://adamtimmy.github.io">github.io网站</a></p>
+    <h2>已表明版权所有者网页：</h2>
+    <b><a href="/Others'%20github.io/Earthworm-Web.github.io.html">Earthworm-Web.github.io</a></b>
+    <b><a href="/Others'%20github.io/MapMaths.github.io.html">MapMaths.github.io</a></b>
+    <b><a href="/Others'%20github.io/Softencode.github.io.html">Softencode.github.io</a></b>
+    <b><a href="/Others'%20github.io/Walkerljy.github.io.html">Walkerljy.github.io</a></b>
     <hr/>
     <h2>开放的源代码：</h2>
     <p><a href="https://github.com/ljy-002/Web-gitignore.github.io" target="_blank">源代码</a></p>
