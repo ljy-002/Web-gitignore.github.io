@@ -6,7 +6,7 @@
 # 4) 进入速度快
 # 5) 性价比很高（简单网站，大片内容）
 # 一个很好的网站：
-<a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank">Web-gitignore.github.io</a>
+<a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank" style="color:#75b4e4;text-decoration:none;">Web-gitignore.github.io</a>
 
 <hr/>
 
