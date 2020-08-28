@@ -148,7 +148,7 @@
     <p>语言：简体中文（现在使用） <a href="https://ljy-002.github.io/Web-gitignore.github.io/En" target="_blank">English</a></p>
     <hr/>
     <h2 align="center">制作/版权提供者：</h2>
-    <h2 align="center">
+    <h2>
       <table>
         <tr>
           <td align="center"><a href="https://github.com/ljy-002"><img src="https://avatars1.githubusercontent.com/u/63292034?s=460&u=271fb228c3c812e73709021a912ab3dec0adb205&v=4" width="100px;" alt=""/><br /><sub><b>ljy-002</b></sub></a><br /></td>
