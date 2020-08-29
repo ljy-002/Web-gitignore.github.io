@@ -14,6 +14,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ljy-002"><img src="https://avatars1.githubusercontent.com/u/63292034?s=460&u=271fb228c3c812e73709021a912ab3dec0adb205&v=4" width="100px;" alt=""/><br /><sub><b>ljy-002</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MapMaths"><img src="https://avatars1.githubusercontent.com/u/62785981?s=400&u=9ed8f97b0fb1901b7a4680c60677d50e2a03e10d&v=4" width="100px;" alt=""/><br /><sub><b>MapMaths</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -21,6 +22,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ljy-002"><img src="https://avatars1.githubusercontent.com/u/63292034?s=460&u=271fb228c3c812e73709021a912ab3dec0adb205&v=4" width="100px;" alt=""/><br /><sub><b>ljy-002</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MapMaths"><img src="https://avatars1.githubusercontent.com/u/62785981?s=400&u=9ed8f97b0fb1901b7a4680c60677d50e2a03e10d&v=4" width="100px;" alt=""/><br /><sub><b>MapMaths</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ljy-001"><img src="https://avatars3.githubusercontent.com/u/61677633?s=400&amp;u=d352b4a5cb394c5dd3293f94acbc6fb693b0e67b&amp;v=4" width="100px;" alt=""><br><sub><b>Danny</b></sub></a><br></td>
   </tr>
 </table>
