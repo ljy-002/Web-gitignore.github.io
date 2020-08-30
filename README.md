@@ -1,6 +1,6 @@
 # Web-gitignore.github.io
 # 这是一个很好的网站
-# 1) 不使用Cookies
+# 1) 使用Cookies
 # 2) 画面简洁，不占内存
 # 3) 手机也可以进入
 # 4) 进入速度快，“负重轻”
