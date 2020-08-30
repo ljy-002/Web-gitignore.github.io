@@ -5,10 +5,12 @@
 # 3) 手机也可以进入
 # 4) 进入速度快，“负重轻”
 # 5) 性价比很高（简单网站，大片内容）
+# 6) 有安全证书
+# 7) 不会让您输入您的个人信息
 # 一个很好的网站：
 <a href="https://ljy-002.github.io/Web-gitignore.github.io/" target="_blank" style="text-decoration:none">Web-gitignore.github.io</a>
-# 自制镜像：
-<a href="https://ljy-002.github.io/Web-gitignore.github.io/gitignore%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/gitignore%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D" target="_blank" style="text-decoration:none">Web-gitignore.github.io镜像</a>
+# 安全模式：
+<a href="https://ljy-002.github.io/Web-gitignore.github.io/gitignore%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/gitignore%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D" target="_blank" style="text-decoration:none">Web-gitignore.github.io安全模式</a>
 
 <hr/>
 
