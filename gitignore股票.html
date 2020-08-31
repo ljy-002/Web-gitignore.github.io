@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>gitignore股票</title>
-    <script>
+    <script type="text/javascript">
       function setCookie(cname,cvalue,exdays) {
         var d = new Date();
         d.setTime(d.getTime() + (exdays*24*60*60*1000));
@@ -32,7 +32,9 @@
            stock = prompt("请输入gitignore股票代码","");
            if (stock != "" && stock = "0x00e0f2") {
              setCookie("stock_value", stock, 30);
-           }
+           } else {
+             alert("您输入错误");
+             }
         }
       }
     </script>
