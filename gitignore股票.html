@@ -7,7 +7,7 @@
         var d = new Date();
         d.setTime(d.getTime() + (exdays*24*60*60*1000));
         var expires = "expires=" + d.toGMTString();
-        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/stock/value";
       }
       function getCookie(cname) {
         var name = cname + "=";
@@ -25,17 +25,23 @@
         return "";
       }
       function checkCookie() {
-        var user=getCookie("username");
-        if (user != "") {
-          alert("您的股票代码，" + user);
+        var stock=getCookie("stock_value");
+        if (stock != "") {
+          alert("您的股票代码，" + stock);
         } else {
-           user = prompt("请输入gitignore股票代码：","");
-           if (user != "" && user != null) {
-             setCookie("username", user, 30);
+           stock = prompt("请输入gitignore股票代码","");
+           if (stock != "" && stock = "0x00e0f2") {
+             setCookie("stock_value", stock, 30);
+           } else {
+             alert("您的输入错误");
            }
         }
       }
     </script>
   </head>
-  <body onload="checkCookie()"><h1>gitignore股票</h1></body>
+  <body onload="checkCookie()">
+    <h1><span style="background-color: rgb(255, 255, 255);color: rgb(55, 200, 100);text-align: right;letter-spacing: 1.5px;">gitignore股票</span></h1>
+    <hr/>
+    <h3><a href="https://ljy-002.github.io/Web-gitignore.github.io/gitignore%E8%82%A1%E7%A5%A8%E4%BD%BF%E7%94%A8%E5%8D%8F%E8%AE%AE">gitignore股票使用协议</a></h3>
+  </body>
 </html>
