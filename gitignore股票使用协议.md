@@ -272,7 +272,11 @@ gitignore股票有权依据国家政策、技术条件、产品功能等变化�
 <hr/>
 
 <b>©GB/T(2020-8)GITI-PROTOCOL</b>
+
 <b>©GB/T(2020-8)GITI-STOCKS-PROTOCOL</b>
+
 <b>©GB/T(2020-8)GITI-GLOBAL-PROTOCOL</b>
+
 <b>©GB/T(2020-8)GITI-CHINA-PROTOCOL</b>
+
 <b>——By gitignore</b>
