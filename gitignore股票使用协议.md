@@ -301,16 +301,36 @@ gitignore股票有权依据国家政策、技术条件、产品功能等变化�
 
 <hr/>
 
+<h1>股票规定</h1>
+
+<h2>1)涨跌幅限制</h2>
+
+每天股票涨幅在20%以内，最大涨幅会开启股票锁定状态。
+
+如果您购买的股票超过总股份的30%，那么会将您的账户锁定，锁定期间，您可以正常使用gitignore股票和gitignore的其他功能
+
+在锁定时，我们会核查您是不是在炒股，如果是，我们将封锁您的账户，在此期间，您无法登录gitignore股票，但可以使用gitignore其他功能
+
+<hr/>
+
 在此过程中，如果您对相关事宜有任何疑惑的，可以通过<a href="https://github.com/ljy-002/Web-gitignore.github.io/issues">提出问题</a>联系我们，我们会尽快为您作出解答
 
 <hr/>
 
 <b>©GB/T(2020-8)GITI-PROTOCOL</b>
 
-<b>©GB/T(2020-8)GITI-STOCKS-PROTOCOL</b>
+<b>©GB/T(2020-9)GITI-STOCKS-PROTOCOL</b>
 
 <b>©GB/T(2020-8)GITI-GLOBAL-PROTOCOL</b>
 
 <b>©GB/T(2020-8)GITI-CHINA-PROTOCOL</b>
+
+<b>©GB/T(2020-9)GITI-SAFETY</b>
+
+<b>©GB/T(2020-9)GITI-STOCKS-SAFETY</b>
+
+<b>©GB/T(2020-9)GITI-USER-SAFETY</b>
+
+<b>©GB/T(2020-9)GITI-INFORMATION-SAFETY</b>
 
 <b>——By gitignore</b>
