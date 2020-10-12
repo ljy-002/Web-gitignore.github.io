@@ -114,9 +114,6 @@
       </ol>
     </details>
     <hr/>
-    <h2>编程猫作品浏览：</h2>
-    <iframe src="https://player.codemao.cn/new/we/63396264" width="340" height="430" >
-    <hr/>
     <h2 id="我的经历">我的经历：</h2>
     <a href="https://ljy-002.github.io/giti.github.io/gitignore%20achievement" target="_blank">我的成就</a>
     <details>
