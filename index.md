@@ -27,12 +27,12 @@
     <h2 id="我的朋友">我的朋友：</h2>
       <details>
         <summary><a href="https://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Little-Earthworm</a>，<a href="https://scratch.mit.edu/users/Earthworm-Tutor/" target="_blank">Earthworm-Tutor（小号）</a></summary>
-          <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Little-Earthworm" target="_blank">GitHub</a>，<a href="https://earthworm.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@Little-Earthworm" target="_blank">Glitch</a>上看到他</dd>
+          <dd>您可以在<a href="http://scratch.mit.edu/users/Little-Earthworm/" target="_blank">Scratch</a>看到他，或者在<a href="https://github.com/Quinn0823" target="_blank">GitHub</a>，<a href="https://earthworm.flarum.cloud/" target="_blank">Flarum</a>，<a href="https://glitch.com/@Little-Earthworm" target="_blank">Glitch</a>上看到他</dd>
           <a href="https://earthworm-web.github.io/zh-cn/index.html" target="_blank">他的github.io主页</a>
       </details>
       <table>
         <tr>
-          <td align="center"><a href="https://github.com/Little-Earthworm"><img src="https://avatars3.githubusercontent.com/u/68278999?s=400&u=55e28135228e1aab70a12b68b0764854fdda842c&v=4" width="100px;" alt=""/><br /><sub><b>Little-Earthworm</b></sub></a><br /></td>
+          <td align="center"><a href="https://github.com/Quinn0823"><img src="https://avatars3.githubusercontent.com/u/68278999?s=400&u=55e28135228e1aab70a12b68b0764854fdda842c&v=4" width="100px;" alt=""/><br /><sub><b>Little-Earthworm</b></sub></a><br /></td>
         </tr>
       </table>
       <details>
